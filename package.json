@@ -1,0 +1,30 @@
+{
+  "name": "operaciones-mat",
+  "version": "1.0.0",
+  "description": "Proyecto de operaciones matematicas con node y npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASASCED/NPM-OperacionesMat.git"
+  },
+  "keywords": [
+    "matematicas",
+    "operaciones",
+    "node",
+    "js",
+    "math",
+    "suma",
+    "resta",
+    "division",
+    "multiplicacion"
+  ],
+  "author": "Jesus Jimenez Cordero <jesus_heaven117@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ASASCED/NPM-OperacionesMat/issues"
+  },
+  "homepage": "https://github.com/ASASCED/NPM-OperacionesMat#readme"
+}
