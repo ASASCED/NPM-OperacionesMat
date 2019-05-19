@@ -4,10 +4,11 @@ Modulo para realizar operaciones matematicas simples de 2 numeros.
 
 ### Uso
 Seguir estas instrucciones
+```
+npm install operaciones-mat
+```
 
 ***
-npm install operaciones-mat
-
 ~~~
 // Importar el modulo
 const m = require('.');
